@@ -1,4 +1,5 @@
 Atividade 15
+
 Objetivo: Desenvolver uma aplicação em Spring Boot que implemente um relacionamento Many-to-Many entre duas entidades, Aluno e Curso, com as operações básicas de CRUD e listagem. Ao final, a aplicação deverá permitir que um aluno esteja matriculado em vários cursos e um curso tenha vários alunos matriculados.
 Cenário: Uma escola está implementando um sistema para gerenciar as matrículas de alunos em diversos cursos. Para isso, você deve criar duas entidades principais:
 Aluno:
